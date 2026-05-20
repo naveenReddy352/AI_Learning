@@ -1,5 +1,6 @@
 for i in range(5):
-    print(i)
+    for letter in 'abc':
+        print(i,letter)
 
 for i in range(5):
     print("Learning AI")
@@ -7,3 +8,9 @@ for i in range(5):
 tickets = ["Login Issue","Server Down","JVM Error"]
 for ticket in tickets:
     print(ticket)
+
+
+x = 0
+while x < 10:
+    print(x)
+    x += 1 
