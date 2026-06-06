@@ -1,4 +1,5 @@
-file = open('logs.txt','r')
+file = open('logs.txt','r') #This will open the file in read mode. If the file does not exist, 
+#it will raise a FileNotFoundError.
 
 print(file.name)
 print(file.mode)
