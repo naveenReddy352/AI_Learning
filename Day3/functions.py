@@ -1,7 +1,7 @@
 def hello():
     return 'Hello!!'
 
-hello()
+hello() # This will not print anything because we are not using print function to display the output of hello() function.
 print(hello())
 print(hello().upper())
 

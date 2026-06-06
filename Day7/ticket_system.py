@@ -22,6 +22,8 @@ def view_tickets():
         print('Issue:', ticket['issue'])
         print('Severity:', ticket['severity'])
 
+ #This function will save the tickets to a file called 'tickets.txt'. 
+ # Each ticket will be saved in a new line with the format "Issue: <issue>, Severity: <severity>".
 def save_tickets():
     try:
         with open('tickets.txt', 'w') as file:

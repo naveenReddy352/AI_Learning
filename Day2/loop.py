@@ -1,6 +1,6 @@
-for i in range(5):
-    for letter in 'abc':
-        print(i,letter)
+for i in range(5): 
+    for letter in 'abc': 
+        print(i,letter) # This will print the value of i and letter in each iteration of the loop
 
 for i in range(5):
     print("Learning AI")
