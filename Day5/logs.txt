@@ -1,5 +1,0 @@
-INFO: Server started
-ERROR: JVM memory issue
-INFO: User login success
-ERROR: Connection timeout
-WARNING: CPU usage high
