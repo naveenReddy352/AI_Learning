@@ -1,0 +1,26 @@
+[
+    {
+        "incident_id": "INC001",
+        "application": "Payments",
+        "priority": "High",
+        "status": "open"
+    },
+    {
+        "incident_id": "INC002",
+        "application": "Trading",
+        "priority": "Medium",
+        "status": "closed"
+    },
+    {
+        "incident_id": "INC003",
+        "application": "Payments",
+        "priority": "Critical",
+        "status": "open"
+    },
+    {
+        "incident_id": "INC004",
+        "application": "Retail",
+        "priority": "Low",
+        "status": "closed"
+    }
+]
