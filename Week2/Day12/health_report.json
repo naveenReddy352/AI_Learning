@@ -1,0 +1,7 @@
+{
+    "critical_servers": 1,
+    "high_servers": 1,
+    "servers_needing_attention": [
+        "app03"
+    ]
+}

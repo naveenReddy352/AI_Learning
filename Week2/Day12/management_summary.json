@@ -1,0 +1,8 @@
+{
+    "total_servers": 4,
+    "critical_servers": 1,
+    "applications_affected": [
+        "Retail",
+        "Payments"
+    ]
+}
